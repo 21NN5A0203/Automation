@@ -29,6 +29,8 @@ public class Googlestepdef {
 		else 
 		{
 			System.out.println("tc is fail");
+			System.out.println("hi");
+			
 		}
 	    	}
 }
